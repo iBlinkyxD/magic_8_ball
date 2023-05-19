@@ -1,4 +1,4 @@
-#Magic 8 Ball
+# Magic 8 Ball
 
 ## By Kevin Joa Feng - 1100305
 
